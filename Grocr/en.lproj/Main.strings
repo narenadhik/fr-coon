@@ -1,0 +1,48 @@
+
+/* Class = "UINavigationItem"; title = "AXA"; ObjectID = "A9r-3e-bgY"; */
+"A9r-3e-bgY.title" = "AXA";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "EUL-DG-a4q"; */
+"EUL-DG-a4q.text" = "Subtitle";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "FXf-pW-pxd"; */
+"FXf-pW-pxd.placeholder" = "Email";
+
+/* Class = "UITableViewSection"; headerTitle = "Greek Houses"; ObjectID = "FgG-Cz-cgl"; */
+"FgG-Cz-cgl.headerTitle" = "Greek Houses";
+
+/* Class = "UILabel"; text = "GDX"; ObjectID = "O3K-8d-B58"; */
+"O3K-8d-B58.text" = "GDX";
+
+/* Class = "UIButton"; normalTitle = "Sign Out"; ObjectID = "Vbe-gw-Etc"; */
+"Vbe-gw-Etc.normalTitle" = "Sign Out";
+
+/* Class = "UITableViewController"; title = "Grocery List"; ObjectID = "WRG-qR-ebT"; */
+"WRG-qR-ebT.title" = "Grocery List";
+
+/* Class = "UILabel"; text = "AXA"; ObjectID = "Wyk-Ag-uab"; */
+"Wyk-Ag-uab.text" = "AXA";
+
+/* Class = "UILabel"; text = "Fra@coon"; ObjectID = "XlR-6D-pNE"; */
+"XlR-6D-pNE.text" = "Fra@coon";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "hxW-pl-K5k"; */
+"hxW-pl-K5k.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "lFS-Be-nny"; */
+"lFS-Be-nny.text" = "Title";
+
+/* Class = "UITableViewController"; title = "Online"; ObjectID = "oUo-Uh-r42"; */
+"oUo-Uh-r42.title" = "Online";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "ufw-i0-710"; */
+"ufw-i0-710.normalTitle" = "Sign up";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "v0P-3e-z2r"; */
+"v0P-3e-z2r.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "vRw-I3-Jav"; */
+"vRw-I3-Jav.normalTitle" = "Login";
+
+/* Class = "UINavigationItem"; title = "Online"; ObjectID = "vda-We-GWe"; */
+"vda-We-GWe.title" = "Online";
